@@ -1,0 +1,24 @@
+ازيكم يا شباب ،عاملين ايه يا رب تكونوا بخير ومستمتعين فى الtraining .
+في السيشن النهارده هنتعرف علي القوة الخفية اللى بتسيطر علي كل حاجه بنستخدمها يوميا ، هندمج بين الsoftware و hardware اللى اخدنا عنهم فكرة .
+هنتكلم اول حاجه عن مقدمة لل Embedded systems و زى ايه فى حياتنا و هنعرف ايه هو ال microcontroller و ايه الحاجات اللى جواه وما هو مصطلح ال embedded linux.
+
+Intro to Embedded Systems Session:
+https://youtu.be/vjLzcw1T5pA
+Intro to Embedded Systems slides:
+https://drive.google.com/file/d/15R3_oqoC1zS01JKk6mmAz913ZTyO_BRG/view?usp=sharing
+
+وبعدين هنتكلم عن الarduino و دى تعتبر ال application layer للembedded systems وهنتعرف على شويه function فيها وهنشوف انواع تانيه زى stm اللى بنستخدمها فى التيم و هنعمل مع بعض بروجيكتات على Tinker cad و فى الاخر هنشوف live demo .
+
+Arduino Basics Session:
+https://youtu.be/drTNi3iX98Y
+Arduino Live Demo:
+https://youtu.be/yLM2c1NIh_o
+Arduino Basics Slides: **Note (open it in presentation view)
+https://docs.google.com/presentation/d/1aKePxiTaTsXNkAOSEBw3-3Qxaw193P5K/edit?usp=sharing&ouid=113039875368087953883&rtpof=true&sd=true
+
+ودى شوية resources للى حابب يتعمق اكتر ولأن السيشن كانت مجرد مقدمة أنصحكم تدورا اكتر وبالذات لو حاجه انت interested بيها ربنا معاكم يا شباب 💪🏻 
+
+ Digital vs analog:
+    https://www.tutorialspoint.com/difference-between-analog-and-digital-signal
+    https://www.guru99.com/analog-vs-digital.html
+    https://www.youtube.com/watch?v=PEYdn56pdcQ
