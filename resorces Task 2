@@ -1,0 +1,49 @@
+ازيكم يا شباب عاملين ايه... النهارده هنشرح تانى سيشن و المرادى هتكون متقسمه ل جزء basic circuits و جزء basic electronics و اخيرا هنتكلم عن battery basics هتنزل فى post منفصل
+طب ده ايه فايدتهم عندنا؟؟
+ الهاردوير هى اول حاجة بتبدا تفكر فيها عشان تبنى ال system بتاعك
+ابتداء من اختيارك لل components ال هتستخدمها لتكوينك PCB boards واخرا انك تشغل ال system بتاعك بأعلى efficiency
+
+ولو ضمنت ان الهاردوير فى الsystem بتاعك كويس فانت بتضمن robot كويس تعرف تنافس بيه
+----------------------------------------
+اولا ال circuit basics
+حنشوف يعنى ايه دايرة كهربية وايه هوا التيار والفولت وازاى نحسب التيار والفولت فى اى دايرة واهم القوانين الل بنستخدمها
+لينك السيشن: https://youtu.be/n7ATNKAi8P0
+
+لينك ال slides :
+https://docs.google.com/presentation/d/1E_aGv8HXryr6Im3aAnoNYgk_UsmbaYQS/edit?usp=sharing&ouid=113039875368087953883&rtpof=true&sd=true
+
+____________________________
+تانى حاجة 
+بعد ما عرفنا اساسيات ال circuits حنشوف بردو شوية basics لل electronics والل حتلاقيها حواليك فى اى حاجة
+زى ايه هوا الدايود و ال tranisitor وممكن استخدمه فيه ايه 
+لينك السيشن: https://youtu.be/y2qZf3u8GWg
+
+لينك ال slides:
+https://drive.google.com/file/d/1oaiJnyVFAf_CWKvbqiuC3-D-JlLNQ16y/view?usp=sharing
+----------------------------------------
+Resources
+Diodes(last year's session): https://youtu.be/zNWIQSJy4iw?si=da9zP9JPvVjoBh7p
+Transistors(last year's session): https://youtu.be/s-Fvhzcw2cc?si=y9FX5xoX6ISPVo1d
+Videos:
+https://www.youtube.com/watch?v=r-X9coYTOV4&list=PLah6faXAgguOeMUIxS22ZU4w5nDvCl5gs
+https://www.youtube.com/watch?v=-VwPSDQmdjM&list=PLwjK_iyK4LLDoFG8FeiKAr3IStRkPSxqq
+https://www.youtube.com/@ALLABOUTELECTRONICS/playlists
+https://www.youtube.com/playlist... (arabic)
+Tutorials:|
+https://www.electronics-tutorials.ws/
+https://www.electronicshub.org/tutorials/
+https://www.allaboutcircuits.com/video-tutorials/
+
+# 🔋[Battery Basics](https://youtu.be/BkCDKD3FS2g)🔋
+اهلا ياشباب👋,
+
+ اخر سيشن معانا في topic basics Hardware, وهو الbatteries, الbatteries سوق كبير بينمو بطريقة غير طبيعية خاصة مع technologies زي الelectric cars و الmobile devices, من المتوقع ان حيكون في اكتر من 10 مليون وظيفة في industry البطاريات في سنة 2030،
+
+
+بالنسبة لينا الbatteries موضوع مهم جدا حتحتكوا بيه في التيم بشكل كبير عندنا كتير تطلعات مستقبلية في التيم خاصة بالسيكشن ده, 
+
+
+السيشن دي حتكون صغيرة و حتكون عن الأساسيات بس، وtask كذالك حيكون بسيط، اتمني تعجبكم
+
+
+# 📚 [Additional Resources](https://docs.google.com/document/d/1Inh1ErO7HiCJgbyeG54jYRdhxxBtRy6YETlljX30X1E/edit?usp=sharing)📚 
