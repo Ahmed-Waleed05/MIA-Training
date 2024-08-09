@@ -1,0 +1,4 @@
+total power=1440watt
+power per led =I^2xR=(100ma)^2x330ohm=3.3watt
+number of leds=total power/power per led=1440/3.3=436.36 
+we need at least 436 leds so we dont exceed the 100ma per led limit

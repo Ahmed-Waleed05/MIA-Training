@@ -1,0 +1,8 @@
+2C=16.5 c=8.25 
+use a battery that has at least c as a factor of safety=10
+max discharge current =16.5
+needed voltage =12
+for this use i would use this battery:
+https://www.dnkpower.com/products/12v-10ah-lithium-ion-battery-pack-dnk-ct12350b/
+
+as it has the minimum c as well as the required voltage and exceeds the max discharge rate needed and is compact and lightweight and isn't costly 
