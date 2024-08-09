@@ -1,0 +1,41 @@
+# C++ Programming 
+ازيكم يا شباب عاملين ايه اتمنى تكونو بخير ومتحمسين لل training
+إن شاء الله اول حاجة هنبدأ بيها هي ال C++ Programming هنعرف شوية Basics وبرده هيكون في extra resources لو حد حابب يعرف اكتر
+مهم جدا تجربو كل حاجة بايديكم وتحاولو تحلو problems وواحدة واحدة هتلاقو الموضوع بقى بسيط ولو حد وقف معاه اي حاجة يبعتلي وإن شاء الله اقدر اساعده
+ربنا معاكم يا شباب وبالتوفيق ❤️❤️
+
+## Sessions Links
+1. https://youtu.be/GCt12gFBzH4
+2. https://youtu.be/tWwliaDcSLI
+3. https://youtu.be/EzGu73VsTfE
+4. https://youtu.be/5T2ilx2P1Qc
+## Sessions Slides
+https://drive.google.com/drive/folders/1PegT1FDfnJbIVwcEmm7wSG8Cgu4AOLeq?usp=sharing
+
+هنشتغل على vs code مهم جدا تنزلوه ويفضل MinGW Compiler 
+## Installation Guide
+https://code.visualstudio.com/download
+https://code.visualstudio.com/docs/languages/cpp
+
+## Extra Resources
+
+* GeeksforGeeks
+https://www.geeksforgeeks.org/c-plus-plus/
+* W3schools
+https://www.w3schools.com/cpp/cpp_intro.asp
+* Programiz
+https://www.programiz.com/cpp-programming
+* freeCodeCamp
+https://youtu.be/vLnPwxZdW4Y?si=c1YmPNjeTybVWuju
+* Bro Code
+https://www.youtube.com/watch?v=-TkoO8Z07hI&pp=ygUDYysr
+* HackerRank (Problem Solving)
+https://www.hackerrank.com/domains/cpp
+
+## (STL) Advanced but highly recommended 
+* Adel Nesim (Arabic)
+https://www.youtube.com/watch?v=-TkoO8Z07hI&pp=ygUDYysr
+* take U forward
+https://youtu.be/RRVYpIET_RU?si=SoC0Ub4rwYspoc0O
+
+<@&1261024173694779473>
